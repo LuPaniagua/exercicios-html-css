@@ -1,8 +1,60 @@
-.SSD{
-    background-color: rgba(207, 27, 42, 0.5);
-    color: black
+.mb{
+    display: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10%;
+    width: 180px;
+    height: 40px;
+    margin: 20px 55px;
+    background-color: #9f3cd8;
+    color: black;
+    
 }
-.SSD-explicacao{
-    background-color: rgba(207, 27, 42, 0.5);
+.mb1 {
+    display: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10%;
+    width: 250px;
+    height: 40px;
+    margin: 20px 55px;
+    background-color: #9f3cd8;
+    color: black;
+}
+.SSD {
+    display: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10%;
+    width: 400px;
+    height: 40px;
+    margin: 20px 55px;
+    background-color: #9f3cd8;
+    color: black;
+}
+
+body {
+   background-color: #0acf8d;
+}
+.tm {
+    display: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10%;
+    width: 400px;
+    height: 40px;
+    margin: 20px 55px;
+    background-color: #9f3cd8;
+    color: black;
+}
+.pb{
+    display: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10%;
+    width: 400px;
+    height: 40px;
+    margin: 20px 55px;
+    background-color: #9f3cd8;
     color: black;
 }
