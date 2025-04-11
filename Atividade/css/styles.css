@@ -1,0 +1,254 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Romanesco&family=Wallpoet&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Romanesco&family=Wallpoet&display=swap');
+
+body{
+    background-image: url(../css/bg1.png);
+    background-attachment: fixed;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.kokoro {
+    font-family: 'Romanesco', cursive;
+    background-image: linear-gradient(to bottom, #A5C6FF, #FF6B81);
+    color: white;
+    width: 500px;
+    height: 20px;
+    padding: 10px 10px 15px 25px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin: auto;
+    font-size: x-large;
+}
+
+.titulo{
+    display:flex;
+    justify-content: center;
+    background-image: linear-gradient(to bottom, #A5C6FF, #FF6B81);
+    font-family: 'Romanesco', cursive;
+    color: rgb(255, 255, 255);
+    width: 200px;
+    height: 60px;
+    padding: 10px 10px 15px 25px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin: auto;
+    font-size: large;
+}
+
+.s1 {
+    display:flex;
+    justify-content: center;
+    font-family: 'Playfair Display', cursive;
+    background-image: linear-gradient(to bottom, #A5C6FF, #FF6B81);
+    color: rgb(255, 255, 255);
+    width: 1000px;
+    height: 140px;
+    padding: 10px 10px 15px 25px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin: auto;
+    font-size: medium;
+}
+
+.resumo{
+    display:flex;
+    justify-content: center;
+    background-image: linear-gradient(to bottom, #A5C6FF, #FF6B81);
+    font-family: 'Romanesco', cursive;
+    color: rgb(255, 255, 255);
+    width: 200px;
+    height: 60px;
+    padding: 10px 10px 15px 25px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin: auto;
+    font-size: large;
+}
+
+.r1 {
+    display:flex;
+    justify-content: center;
+    font-family: 'Playfair Display', cursive;
+    background-image: linear-gradient(to bottom, #A5C6FF, #FF6B81);
+    color: rgb(255, 255, 255);
+    width: 1000px;
+    height: 130px;
+    padding: 10px 10px 15px 25px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin: auto;
+    font-size: medium;
+}
+
+.elenco{
+    display:flex;
+    justify-content: center;
+    background-image: linear-gradient(to bottom, #A5C6FF, #FF6B81);
+    font-family: 'Romanesco', cursive;
+    color: rgb(255, 255, 255);
+    width: 200px;
+    height: 30px;
+    padding: 10px 10px 15px 25px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin: auto;
+    font-size: x-large;
+}
+
+.anna{
+    display:flex;
+    justify-content: center;
+    font-family: 'Playfair Display', cursive;
+    background-image: linear-gradient(to bottom, #A5C6FF, #FF6B81);
+    color: white;
+    width: 100px;
+    height: 40px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin: auto;
+    font-size: medium;
+}
+.ichikawa {
+    display:flex;
+    justify-content: center;
+    font-family: 'Playfair Display', cursive;
+    background-image: linear-gradient(to bottom, #A5C6FF, #FF6B81);
+    color: white;
+    width: 150px;
+    height: 30px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin: auto;
+    font-size: medium;
+}
+.moeko {
+    display:flex;
+    justify-content: center;
+    font-family: 'Playfair Display', cursive;
+    background-image: linear-gradient(to bottom, #A5C6FF, #FF6B81);
+    color: white;
+    width: 150px;
+    height: 30px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin: auto;
+    font-size: medium;
+}
+
+.hara {
+    display:flex;
+    justify-content: center;
+    font-family: 'Playfair Display', cursive;
+    background-image: linear-gradient(to bottom, #A5C6FF, #FF6B81);
+    color: white;
+    width: 150px;
+    height: 30px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin: auto;
+    font-size: medium;
+}
+
+.kobayashi {
+    display:flex;
+    justify-content: center;
+    font-family: 'Playfair Display', cursive;
+    background-image: linear-gradient(to bottom, #A5C6FF, #FF6B81);
+    color: white;
+    width: 150px;
+    height: 30px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin: auto;
+    font-size: medium;
+}
+
+.nanjo {
+    display:flex;
+    justify-content: center;
+    font-family: 'Playfair Display', cursive;
+    background-image: linear-gradient(to bottom, #A5C6FF, #FF6B81);
+    color: white;
+    width: 150px;
+    height: 30px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin: auto;
+    font-size: medium;
+}
+
+.kana {
+    display:flex;
+    justify-content: center;
+    font-family: 'Playfair Display', cursive;
+    background-image: linear-gradient(to bottom, #A5C6FF, #FF6B81);
+    color: white;
+    width: 150px;
+    height: 30px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin: auto;
+    font-size: medium;
+}
+
+.criadores {
+    display:flex;
+    justify-content: center;
+    background-image: linear-gradient(to bottom, #A5C6FF, #FF6B81);
+    font-family: 'Romanesco', cursive;
+    color: rgb(255, 255, 255);
+    width: 200px;
+    height: 40px;
+    padding: 10px 10px 15px 25px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin: auto;
+    font-size: xx-large;
+}
+
+.mangaka {
+    display:flex;
+    justify-content: center;
+    font-family: 'Playfair Display', cursive;
+    background-image: linear-gradient(to bottom, #A5C6FF, #FF6B81);
+    color: rgb(255, 255, 255);
+    width: 300px;
+    height: 50px;
+    padding: 10px 10px 15px 25px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin: auto;
+    font-size: medium;
+}
+
+.estudio{
+    display:flex;
+    justify-content: center;
+    font-family: 'Playfair Display', cursive;
+    background-image: linear-gradient(to bottom, #A5C6FF, #FF6B81);
+    color: rgb(255, 255, 255);
+    width: 1000px;
+    height: 50px;
+    padding: 10px 10px 15px 25px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin: auto;
+    font-size: medium;
+}
+
+.ass {
+    font-family: 'Playfair Display', cursive;
+    border: 5px solid #8E21EA;
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    color: white;
+}
+
+#sla {
+    color: white;
+    font-family: 'Playfair Display', cursive;
+}
